@@ -1,0 +1,1 @@
+[{"id":1,"title":"prueba1","description":"producto de pruebas","price":100,"thumbnail":"foto.jpg","code":"abc123","stock":10},{"id":2,"title":"añadido1","description":"description1","price":125,"thumbnail":"foto2.jpg","code":"azz123","stock":5},{"title":"añadidobis","description":"editado2","price":1250,"thumbnail":"foto332.jpg","code":"a5z123","stock":15,"id":3}]
